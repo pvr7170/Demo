@@ -1,2 +1,6 @@
 Hi, this is vishal raj
+<<<<<<< HEAD
 hi, this from local repo
+=======
+Hi, this from remote repo
+>>>>>>> 137e25b08e80d38f5711286856f1f9769aced06e
