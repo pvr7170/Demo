@@ -7,3 +7,5 @@ this from intellij
 this for webstorm
 this is from gitbash webstorm
 
+this is for gitbash webstorm
+
