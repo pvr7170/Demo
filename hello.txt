@@ -7,4 +7,8 @@ this from intellij
 this for webstorm
 
 should appear in gitbash
+<<<<<<< HEAD
 this is from gitbash
+=======
+this should appear again
+>>>>>>> eac4ebd70c0561013560a30c7eab59b7c7396f86
