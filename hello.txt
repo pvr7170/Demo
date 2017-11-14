@@ -1,11 +1,4 @@
 Hello vishal
 Hello Sonu
 Hi Nihanth
-Yo guys
-Hi guys
-this from intellij
-this for webstorm
-this is from gitbash webstorm
 
-this is for gitbash webstorm
-**************this is for sagoku*************
